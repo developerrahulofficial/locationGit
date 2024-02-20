@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 
+import GeogitIcon from "https://iili.io/JEtEJ87.png";
 import { GoPerson, GoSignOut, GoLocation } from "react-icons/go";
 
 import { BsGithub } from "react-icons/bs";
@@ -95,7 +96,7 @@ function App() {
       <header className="bg-transparent py-1">
         <div className="container mx-auto pt-4 px-4 sm:px-12 flex flex-col sm:flex-row justify-between items-center z-50">
           <Link to="/" className="flex items-center space-x-3 mb-4 sm:mb-0 select-none">
-          
+          <img src={GeogitIcon} alt="Geogit Icon" className="GeoIcon max-w-smaller hidden sm:block" />
             <span className="hidden sm:inline text-white font-bold text-2xl select-none">LocationGit</span>
           </Link>
           <nav className="flex items-center font-Hublot">
