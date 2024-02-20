@@ -1,7 +1,6 @@
 
-<div align="center">
-<img alt="Logo" src="https://raw.githubusercontent.com/sheeehy/Geogit/main/src/assets/GeogitIcon.png" width="100" />
-</div>
+![image](https://github.com/developerrahulofficial/locationGit/assets/83329806/16e64674-3f6b-4af6-b6bd-0b4e400e0fb4)
+
 <h1 align="center">
   LocationGit - v2
 </h1>
