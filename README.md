@@ -61,7 +61,7 @@ Make sure you have Node.js and npm installed.
 
 ## Clone the repository
 ```
-git clone https://github.com/sheeehy/Geo-Git-v2.git
+git clone https://github.com/developerrahulofficial/locationGit.git
 ```
 ## Navigate to the project directory
 ```
