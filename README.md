@@ -65,7 +65,7 @@ git clone https://github.com/developerrahulofficial/locationGit.git
 ```
 ## Navigate to the project directory
 ```
-cd Geo-Git-v2
+cd locationGit
 ```
 ## Install dependencies
 ```
