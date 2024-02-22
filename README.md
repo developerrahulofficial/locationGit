@@ -5,14 +5,10 @@
   LocationGit - v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://Geogit.vercel.app/" target="_blank">LocationGit</a> built with <a href="https://react.dev/" target="_blank">React</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>.
+  The second iteration of <a href="https://location-git-jb69.vercel.app/" target="_blank">LocationGit</a> built with <a href="https://react.dev/" target="_blank">React</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>.
 </p>
 <p align="center">
  
- 
-
-
-<br> </br>
 ![](https://raw.githubusercontent.com/sheeehy/Geo-Git-v2/main/src/assets/GeogitHero.JPG)
 
 
