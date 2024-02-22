@@ -67,6 +67,11 @@ git clone https://github.com/developerrahulofficial/locationGit.git
 ```
 cd locationGit
 ```
+## Setup Your Enviroment Variables by creating .env file in your project and the following line
+```
+VITE_GITHUB_TOKEN = " Your Github Token Here"
+
+```
 ## Install dependencies
 ```
 npm install
@@ -75,6 +80,8 @@ npm install
 ```
 npm run dev
 ```
+
+
 <br>
 
 ## 🎨 Color Reference
